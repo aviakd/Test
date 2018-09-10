@@ -2,6 +2,8 @@ This is test file.
 Master Commit.
 Feature Branch 1 commit.
 Feature Branch 2 commit.
+<<<<<<< HEAD
 Feature Branch 3 commit.
 =======
 Master Branch 3 commit.
+>>>>>>> Feature-1
