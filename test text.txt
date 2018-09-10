@@ -1,2 +1,6 @@
 This is test file.
+<<<<<<< HEAD
 This is second text.
+=======
+Feature Branch 1 commit.
+>>>>>>> Feature-1
