@@ -2,3 +2,4 @@ This is test file.
 Master Commit.
 Feature Branch 1 commit.
 Feature Branch 2 commit.
+Feature Branch 3 commit.
