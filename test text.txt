@@ -3,3 +3,5 @@ Master Commit.
 Feature Branch 1 commit.
 Feature Branch 2 commit.
 Feature Branch 3 commit.
+=======
+Master Branch 3 commit.
