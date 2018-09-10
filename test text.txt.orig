@@ -1,5 +1,8 @@
 This is test file.
 Test file
 Feature branhc
+<<<<<<< HEAD
 one line from local
+=======
 one more line
+>>>>>>> 0ef804eebf7d7b418fff88a8df626eb241ed0492
